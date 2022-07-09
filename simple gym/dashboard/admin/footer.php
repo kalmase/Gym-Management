@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2021 <strong> Gym System </strong></footer>
